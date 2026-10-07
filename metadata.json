@@ -1,0 +1,6 @@
+{
+  "name": "LepusHub",
+  "description": "A high-performance CRM and Lead Management application featuring a secure backend, pipeline staging, visual dashboards, task reminders, and integrated file attachments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
